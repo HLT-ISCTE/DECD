@@ -1,5 +1,5 @@
 # DECD: Descoberta e Extração de Conhecimento de Dados
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheAwesomeGe/DECD/blob/main/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HLT-ISCTE/DECD/blob/main/index.ipynb)
 
 Materiais de apoio à componente prática da disciplina de Descoberta e Extração de Conhecimento de Dados (DECD) da Licenciatura em Informática e Gestão de Empresas do ISCTE - Instituto Universitário de Lisboa.
 
