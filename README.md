@@ -1,7 +1,7 @@
 # DECD: Descoberta e Extração de Conhecimento de Dados
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HLT-ISCTE/DECD/blob/main/index.ipynb)
 
-Materiais de apoio à componente prática da disciplina de Descoberta e Extração de Conhecimento de Dados (DECD) da Licenciatura em Informática e Gestão de Empresas do ISCTE - Instituto Universitário de Lisboa.
+Materiais de apoio à componente prática da disciplina de Descoberta e Extração de Conhecimento de Dados (DECD) do Iscte - Instituto Universitário de Lisboa.
 
 Parte dos materiais disponibilizados neste repositório são baseados nos materiais da disciplina de [Computação para Economia e Ciências Empresariais](https://github.com/fmmb/CEB), do [Python Data Science Handbook: Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/) e do [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/).
 
@@ -16,17 +16,10 @@ Por favor enviem comentários e sugestões para `ricardo.ribeiro@iscte-iul.pt` e
 3. [Análise de dados](./notebooks/03-pandas-analysis.ipynb)
 4. [Visualização](./notebooks/04-visualization.ipynb)
 5. [Manipulação de dados](./notebooks/05-pandas-processing.ipynb)
-6. [Exercícios: Análise e manipulação de dados](./notebooks/06-exercises.ipynb)
-    - [Solução](./notebooks/06-exercises-solution.ipynb)
-7. [Aprendizagem não supervisionada](./notebooks/07-unsupervised.ipynb)
-8. [Exercícios: Aprendizagem não supervisionada](./notebooks/08-exercises.ipynb)
-    - [Solução](./notebooks/08-exercises-solution.ipynb)
-9. [Aprendizagem supervisionada: Classificação](./notebooks/09-classification.ipynb)
-10. [Exercícios: Classificação](./notebooks/10-exercises.ipynb)
-    - [Solução](./notebooks/10-exercises-solution.ipynb)
-11. [Aprendizagem supervisionada: Regressão](./notebooks/11-regression.ipynb)
-12. [Exercícios: Regressão](./notebooks/12-exercises.ipynb)
-    - [Solução](./notebooks/12-exercises-solution.ipynb)
+6. [Exercícios: Análise e manipulação de dados](./notebooks/06-data-exercises.ipynb)
+    - [Solução](./notebooks/06-data-exercises-solution.ipynb)
+7. [Aprendizagem não supervisionada: k-Means](./notebooks/07-unsupervised-kmeans.ipynb)
+
 
 ## Recursos Adicionais
 
