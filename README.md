@@ -18,7 +18,9 @@ Por favor enviem comentários e sugestões para `ricardo.ribeiro@iscte-iul.pt` e
 5. [Manipulação de dados](./notebooks/05-pandas-processing.ipynb)
 6. [Exercícios: Análise e manipulação de dados](./notebooks/06-data-exercises.ipynb)
     - [Solução](./notebooks/06-data-exercises-solution.ipynb)
-7. [Aprendizagem não supervisionada: k-Means](./notebooks/07-unsupervised-kmeans.ipynb)
+7. [Aprendizagem não supervisionada](./notebooks/07-unsupervised.ipynb)
+8. [Exercícios: Aprendizagem não supervisionada](./notebooks/08-unsupervised-exercises.ipynb)
+    - [Solução](./notebooks/08-unsupervised-exercises-solution.ipynb)
 
 
 ## Recursos Adicionais
