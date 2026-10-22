@@ -21,6 +21,12 @@ Por favor enviem comentários e sugestões para `ricardo.ribeiro@iscte-iul.pt` e
 7. [Aprendizagem não supervisionada](./notebooks/07-unsupervised.ipynb)
 8. [Exercícios: Aprendizagem não supervisionada](./notebooks/08-unsupervised-exercises.ipynb)
     - [Solução](./notebooks/08-unsupervised-exercises-solution.ipynb)
+9. [Aprendizagem supervisionada: Classificação](./notebooks/09-classification.ipynb)
+10. [Exercícios: Classificação](./notebooks/10-classification-exercises.ipynb)
+    - [Solução](./notebooks/10-classification-exercises-solution.ipynb)
+11. [Aprendizagem supervisionada: Regressão](./notebooks/11-regression.ipynb)
+12. [Exercícios: Regressão](./notebooks/12-regression-exercises.ipynb)
+    - [Solução](./notebooks/12-regression-exercises-solution.ipynb)
 
 
 ## Recursos Adicionais
